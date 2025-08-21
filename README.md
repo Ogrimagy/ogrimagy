@@ -1,7 +1,7 @@
 # 👋 Hi, I'm El hadi  
 
 <a href="https://www.linkedin.com/in/elhadi-mohammedi/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> 
-<a href="elhadi.mohammedi@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a> 
+<a href="mailto:elhadi.mohammedi@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a> 
 <a href="https://github.com/ogrimagy"><img src="https://img.shields.io/github/followers/CHANGEME?label=Follow&style=social"/></a>  
 
 ---
