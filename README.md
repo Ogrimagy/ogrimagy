@@ -2,7 +2,9 @@
 
 <a href="https://www.linkedin.com/in/elhadi-mohammedi/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> 
 <a href="mailto:elhadi.mohammedi@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a> 
-<a href="https://github.com/ogrimagy"><img src="https://img.shields.io/github/followers/CHANGEME?label=Follow&style=social"/></a>  
+<a href="https://github.com/ogrimagy"><img src="https://img.shields.io/github/followers/ogrimagy?label=Follow&style=social"/></a>  
+<a href="https://tryhackme.com/p/ogrimagy"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white"/></a> 
+<a href="https://app.hackthebox.com/users/1455100"><img src="https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?style=flat&logo=hackthebox&logoColor=black"/></a>  
 
 ---
 
