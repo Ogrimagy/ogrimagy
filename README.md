@@ -48,11 +48,14 @@ To leverage my skills in security monitoring, incident response, and automation 
 
 ## 📜 Certifications  
 
+<!-- 
 ![CompTIA Security+](https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?logo=comptia&logoColor=white&style=flat)  
 ![CompTIA Network+](https://img.shields.io/badge/-CompTIA_Network%2B-007ACC?logo=comptia&logoColor=white&style=flat)  
 ![CompTIA A+](https://img.shields.io/badge/-CompTIA_A%2B-2E2E2E?logo=comptia&logoColor=white&style=flat)  
 ![CDSA](https://img.shields.io/badge/-CDSA-006400?style=flat&logoColor=white)  
 ![CCD](https://img.shields.io/badge/-CCD-000080?style=flat&logoColor=white)  
+
+-->
 
 ---
 
