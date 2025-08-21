@@ -1,60 +1,66 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# 👋 Hi, I'm CHANGEME  
 
-[Brief Introduction - Remove this afterwards]
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> 
+<a href="mailto:changeme@email.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a> 
+<a href="https://github.com/CHANGEME"><img src="https://img.shields.io/github/followers/CHANGEME?label=Follow&style=social"/></a>  
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+---
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+## 🌟 About Me  
+I’m a cybersecurity enthusiast with a background in computer science, passionate about defending systems, detecting threats, and automating SOC processes. My goal is to grow into a **SOC Analyst (Tier 1)** and contribute to proactive defense strategies.  
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+---
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## 🎯 Objective  
+To leverage my skills in security monitoring, incident response, and automation to contribute to a modern **Security Operations Center (SOC)**.  
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+---
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## 🛠️ Skills & Projects  
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+| Skill                               | Project / Lab                                                                 |
+|-------------------------------------|-------------------------------------------------------------------------------|
+| 🔎 SIEM & Log Analysis              | [Detection Lab](https://github.com/CHANGEME/detection-lab)                   |
+| 🌐 Network Traffic Analysis         | [PCAP Threat Hunt](https://github.com/CHANGEME/network-traffic-lab)          |
+| ⚙️ Security Automation (SOAR)       | [SOC Automation](https://github.com/CHANGEME/soc-automation)                 |
+| 🚨 Incident Response Playbooks       | [IR Playbook Project](https://github.com/CHANGEME/incident-response)         |
+| 🧩 Threat Intelligence Integration  | [TheHive & MISP Lab](https://github.com/CHANGEME/threat-intel-integration)   |
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+---
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+## ⚒️ Tools I Use  
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+**🔹 Network & Monitoring**  
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat)  
+![Suricata](https://img.shields.io/badge/-Suricata-EF3B2D?logo=suricata&logoColor=white&style=flat)  
+![Zeek](https://img.shields.io/badge/-Zeek-5C2D91?logo=zeek&logoColor=white&style=flat)  
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+**🔹 Endpoint Security**  
+![Velociraptor](https://img.shields.io/badge/-Velociraptor-4B275F?logo=velociraptor&logoColor=white&style=flat)  
+![Defender](https://img.shields.io/badge/-Microsoft_Defender-0078D4?logo=microsoft&logoColor=white&style=flat)  
+
+**🔹 SIEM & Analytics**  
+![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white&style=flat)  
+![Elastic](https://img.shields.io/badge/-Elastic-005571?logo=elastic&logoColor=white&style=flat)  
+![MS Sentinel](https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?logo=microsoft&logoColor=white&style=flat)  
+
+---
+
+## 📜 Certifications  
+
+![CompTIA Security+](https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?logo=comptia&logoColor=white&style=flat)  
+![CompTIA Network+](https://img.shields.io/badge/-CompTIA_Network%2B-007ACC?logo=comptia&logoColor=white&style=flat)  
+![CompTIA A+](https://img.shields.io/badge/-CompTIA_A%2B-2E2E2E?logo=comptia&logoColor=white&style=flat)  
+![CDSA](https://img.shields.io/badge/-CDSA-006400?style=flat&logoColor=white)  
+![CCD](https://img.shields.io/badge/-CCD-000080?style=flat&logoColor=white)  
+
+---
+
+## 🚀 Featured Projects  
+- 🔐 [Detection Lab](https://github.com/CHANGEME/detection-lab) – SIEM setup & log analysis lab  
+- ⚡ [SOC Automation](https://github.com/CHANGEME/soc-automation) – Automated incident response with SOAR  
+- 🛡️ [Threat Hunting Lab](https://github.com/CHANGEME/threat-hunting-lab) – PCAP analysis & attack detection  
+
+---
+
+⭐ Always open to collaboration on cybersecurity projects & research.  
