@@ -7,7 +7,7 @@
 ---
 
 ## 🌟 About Me  
-I’m a cybersecurity enthusiast with a background in computer science, passionate about defending systems, detecting threats, and automating SOC processes. My goal is to grow into a **SOC Analyst (Tier 1)** and contribute to proactive defense strategies.  
+I’m a cybersecurity enthusiast with a background in computer science, passionate about defending systems, detecting threats, and automating SOC processes. My goal is to grow into a **SOC Analyst** and contribute to proactive defense strategies.  
 
 ---
 
