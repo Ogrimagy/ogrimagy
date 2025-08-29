@@ -49,7 +49,8 @@ To leverage my skills in security monitoring, incident response, and automation 
 **🔹 SIEM & Analytics**  
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white&style=flat)  
 ![Elastic](https://img.shields.io/badge/-Elastic-005571?logo=elastic&logoColor=white&style=flat)  
-![MS Sentinel](https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?logo=microsoft&logoColor=white&style=flat)  
+![FortiSIEM](https://img.shields.io/badge/-FortiSIEM-EE3124?logo=fortinet&logoColor=white&style=flat)  
+![QRadar](https://img.shields.io/badge/-IBM_QRadar-052FAD?logo=ibm&logoColor=white&style=flat)  
 
 ---
 
