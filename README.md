@@ -20,6 +20,8 @@ To leverage my skills in security monitoring, incident response, and automation 
 
 ## 🛠️ Skills & Projects  
 
+<!--
+
 | Skill                               | Project / Lab                                                                 |
 |-------------------------------------|-------------------------------------------------------------------------------|
 | 🔎 SIEM & Log Analysis              | [Detection Lab](https://github.com/CHANGEME/detection-lab)                   |
@@ -28,6 +30,8 @@ To leverage my skills in security monitoring, incident response, and automation 
 | 🚨 Incident Response Playbooks       | [IR Playbook Project](https://github.com/CHANGEME/incident-response)         |
 | 🧩 Threat Intelligence Integration  | [TheHive & MISP Lab](https://github.com/CHANGEME/threat-intel-integration)   |
 
+-->
+
 ---
 
 ## ⚒️ Tools I Use  
@@ -35,6 +39,7 @@ To leverage my skills in security monitoring, incident response, and automation 
 **🔹 Network & Monitoring**  
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat)  
 ![Suricata](https://img.shields.io/badge/-Suricata-EF3B2D?logo=suricata&logoColor=white&style=flat)  
+![Snort](https://img.shields.io/badge/-Snort-CB2029?logo=snort&logoColor=white&style=flat)
 ![Zeek](https://img.shields.io/badge/-Zeek-5C2D91?logo=zeek&logoColor=white&style=flat)  
 
 **🔹 Endpoint Security**  
