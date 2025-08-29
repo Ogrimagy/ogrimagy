@@ -82,7 +82,7 @@ To leverage my skills in security monitoring, incident response, and automation 
 
 ---
 
-* [scripts](https://github.com/YOUR_USERNAME/YOUR_REPO/tree/main/scripts)
+* [virustotal bulk ip checker](https://github.com/Ogrimagy/virustotal-bulk-ip-checker.git)
 
 ---
 
