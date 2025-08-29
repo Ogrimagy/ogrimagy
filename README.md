@@ -67,10 +67,22 @@ To leverage my skills in security monitoring, incident response, and automation 
 
 ---
 
+<!--
+
 ## 🚀 Featured Projects  
 - 🔐 [Detection Lab](https://github.com/CHANGEME/detection-lab) – SIEM setup & log analysis lab  
 - ⚡ [SOC Automation](https://github.com/CHANGEME/soc-automation) – Automated incident response with SOAR  
 - 🛡️ [Threat Hunting Lab](https://github.com/CHANGEME/threat-hunting-lab) – PCAP analysis & attack detection  
+
+-->
+
+---
+
+## 📜 Scripts  
+
+---
+
+![scripts](https://github.com/YOUR_USERNAME/YOUR_REPO/tree/main/scripts)
 
 ---
 
