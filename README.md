@@ -82,7 +82,7 @@ To leverage my skills in security monitoring, incident response, and automation 
 
 ---
 
-![scripts](https://github.com/YOUR_USERNAME/YOUR_REPO/tree/main/scripts)
+* [scripts](https://github.com/YOUR_USERNAME/YOUR_REPO/tree/main/scripts)
 
 ---
 
