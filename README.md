@@ -51,22 +51,19 @@ To leverage my skills in security monitoring, incident response, and automation 
 ![FortiSIEM](https://img.shields.io/badge/-FortiSIEM-EE3124?logo=fortinet&logoColor=white&style=flat)  
 ![QRadar](https://img.shields.io/badge/-IBM_QRadar-052FAD?logo=ibm&logoColor=white&style=flat)  
 
+<!-- 
 ---
 
 ## 📜 Certifications  
 
-<!-- 
+
 ![CompTIA Security+](https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?logo=comptia&logoColor=white&style=flat)  
 ![CompTIA Network+](https://img.shields.io/badge/-CompTIA_Network%2B-007ACC?logo=comptia&logoColor=white&style=flat)  
 ![CompTIA A+](https://img.shields.io/badge/-CompTIA_A%2B-2E2E2E?logo=comptia&logoColor=white&style=flat)  
 ![CDSA](https://img.shields.io/badge/-CDSA-006400?style=flat&logoColor=white)  
 ![CCD](https://img.shields.io/badge/-CCD-000080?style=flat&logoColor=white)  
 
--->
-
 ---
-
-<!--
 
 ## 🚀 Featured Projects  
 - 🔐 [Detection Lab](https://github.com/CHANGEME/detection-lab) – SIEM setup & log analysis lab  
