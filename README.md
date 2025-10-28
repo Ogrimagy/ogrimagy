@@ -16,11 +16,10 @@ I’m a cybersecurity enthusiast with a background in computer science, passiona
 ## 🎯 Objective  
 To leverage my skills in security monitoring, incident response, and automation to contribute to a modern **Security Operations Center (SOC)**.  
 
+<!--
 ---
 
 ## 🛠️ Skills & Projects  
-
-<!--
 
 | Skill                               | Project / Lab                                                                 |
 |-------------------------------------|-------------------------------------------------------------------------------|
